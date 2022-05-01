@@ -6,5 +6,5 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.medallia.digital.mobilesdk</groupId>
    <artifactId>android-sdk</artifactId>
-   <version>4.1.0-betaX</version>
+   <version>4.0.0-betaX</version>
 </project>

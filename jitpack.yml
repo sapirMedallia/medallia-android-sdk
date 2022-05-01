@@ -1,0 +1,3 @@
+install: 
+  - FILE="-Dfile=MedalliaDigitalSDK-release.aar" 
+  - mvn install:install-file $FILE -DgroupId=com.medallia.digital.mobilesdk -DartifactId=android-sdk -Dversion=4.1.0-betaX -Dpackaging=aar -DgeneratePom=true
